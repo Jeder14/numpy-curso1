@@ -22,4 +22,4 @@ Al igual que los vectores, las matrices son estructuras de datos que representan
   Elevar al cuadrado cada diferencia (para evitar cancelaciones entre errores positivos y negativos).
   Sumar todos los errores al cuadrado.
   Este valor se conoce como suma de errores cuadráticos (o residuos al cuadrado) y es un indicador clave para evaluar la calidad de un modelo, especialmente en regresión. Cuanto menor sea, mejor es el ajuste del modelo a los datos reales.
-
+En Numpy 3 aprendimos: Realizar operaciones entre arrays.Calcular la norma entre dos arrays. Implementar la regresión lineal.
